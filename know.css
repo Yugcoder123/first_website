@@ -52,7 +52,7 @@ width: 520px;
 .type{
     transform: translateY(50px);
     gap: 5px;
-    width: 47%
+    width: 47%;
 }
 .uni{
     display: flex;
@@ -61,6 +61,7 @@ width: 520px;
 .bgcolor{
     background-color: black;
     color: azure;
+    width:100%;
 }
 .footer{
     background-color: blue;
